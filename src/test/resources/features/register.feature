@@ -5,7 +5,7 @@ Feature: Register and Post in Izyacademy
     Given el usuario abre la pagina
     When el usuario realiza un registro exitoso
       | name  | username | country  | city     | dni      | phone     | email            | password |
-      | Jorge | Jolutestt | Colombia | Medellin | 12345678 | 300000000 | jolu25@yopmail.com | Password |
+      | Jorge | Jolutesttyt | Colombia | Medellin | 123458678 | 300000000 | jolud1st@yopmail.com | Password4521asd |
     And el usuario realiza una publicación de un post
       | namecategory   | descategory                              |
       | Categoria Jolu | Descripcion corta de la categoria automatizacion prueba final |
